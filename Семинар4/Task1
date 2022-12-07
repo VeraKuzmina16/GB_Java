@@ -24,9 +24,7 @@ public class task1 {
             temp++;
         }
 
-
         System.out.println("linkList = " + linkList);
-
         
     }
 }
